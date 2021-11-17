@@ -1,0 +1,18 @@
+.paragraph {
+	margin: 0;
+	padding: 0;
+
+	font-weight: 400;
+}
+
+.size-s {
+	font-size: 14px;
+}
+
+.size-m {
+	font-size: 16px;
+}
+
+.size-l {
+	font-size: 18px;
+}
